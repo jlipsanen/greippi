@@ -1,0 +1,14 @@
+__pycache__
+greippi.egg-info/
+
+*.bin
+libvoikko.py
+libvoikko-1.dll
+*.zip
+*.gz
+dictionary/
+results/
+
+turku_model.json
+fb_model.json
+.idea/

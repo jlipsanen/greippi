@@ -1,1 +1,1 @@
-# greippi
+Pro-graduun "Aineistomuuttujien luokittelu" liittyvä koodi. Aineistomuuttujat(data/test_variables.json ja data/train_variables.json) ja luokkadata (data/test_labels.json ja data/train_labels.json) on lisensoitu CC BY 4.0 lisenssillä. Luokkadata on haettu osoitteesta https://www.fsd.tuni.fi/tietomilli ja muuttujat osoitteesta https://www.fsd.tuni.fi/fi/aineistot/taustatietoa/ddi-records/. Koodi on lisensoitu GPL v3 lisenssillä. Libvoikko täytyy asentaa manuaalisesti, muut riippuvuudet voi asentaa komennolla pip install -r requirements.txt
